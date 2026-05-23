@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Car Price Prediction Deployment
 
 An end-to-end Machine Learning project that predicts the selling price of used cars using Random Forest Regression and Flask.
@@ -126,3 +127,7 @@ python main.py
 # Author
 
 Prathyun Reddy
+=======
+# Car-Price-Prediction
+End-to-end Machine Learning project for predicting used car prices using Random Forest Regression with Flask web application deployment.
+>>>>>>> 2544416f69d0cc68fd15c29509a363450a5ddfef
