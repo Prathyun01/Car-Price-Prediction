@@ -50,7 +50,6 @@ car-price-prediction-deployment/
 ├── Car_Price_Prediction.ipynb
 ├── random_forest_regression_model.pkl
 ├── car data.csv
-├── requirements.txt
 └── README.md
 ```
 
@@ -91,7 +90,7 @@ git clone <your-repository-link>
 ## Step 2 - Install Dependencies
 
 ```bash
-pip install -r requirements.txt
+pip install flask,pandas,numpy
 ```
 
 ## Step 3 - Run Flask App
